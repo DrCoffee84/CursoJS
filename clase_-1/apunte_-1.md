@@ -1,4 +1,4 @@
-#  Clase 0
+#  Clase -1
 
 
 En este curso sera un medio para proveer de conocimientos específicos, manejo de herramientas y habilidades para desempeñarse en el mercado laboral actual. Es la adquisición de competencias profesionales en áreas de programación y arquitectura de aplicaciones Web que incluye: desarrollar, administrar y programar servicios remotos. 
